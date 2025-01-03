@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Sultan Alam**!
 
-I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entrepreneur** 🚀 from Bhopal, India 🇮🇳. I specialize in building dynamic web applications 🌐 and i am on a journey to master **Data Structures and Algorithms (DSA)** 🔍. Currently, I'm diving into exciting projects that blend my love for technology with real-world impact! 💡
+I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entrepreneur** 🚀 from Bhopal, India. I specialize in building dynamic web applications 🌐 and i am on a journey to master **Data Structures and Algorithms (DSA)** 🔍. Currently, I'm diving into exciting projects that blend my love for technology with real-world impact! 💡
 
 ---
 
@@ -18,9 +18,7 @@ I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entreprene
 
 - **Degree:** B.Tech in Computer Science and Engineering (CSE) 🎓
 - **College:** SISTec Ratibad Campus, Bhopal (M.P.) 🏫
-- **Current Year:** 3rd Year (2025) 📅
-- **Courses:** Data Structures and Algorithms, Web Development, Theory of Computation, Internet and Web Technology 📚
-
+- **Current Year:** 3rd Year 📅
 ---
 
 ### 💻 Tech Stack
@@ -51,7 +49,7 @@ I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entreprene
 
 ### 🎯 Goals for 2025
 
-- **Master DSA:** Solve 1000 problems to gain expertise in Data Structures and Algorithms 🧠
+- **Master DSA:** Solve 500+ problems to gain expertise in Data Structures and Algorithms 🧠
 - **Complete Web Development Mastery:** Become an expert in MERN stack and build complex applications 🚀
 - **Launch SaaS Product:** Successfully launch my SaaS platform for content creators 🎉
 - **A+ in Exams:** Achieve A+ grades in my upcoming semester exams 🎓

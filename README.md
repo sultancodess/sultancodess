@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Sultan Alam**!
 
-I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entrepreneur** 🚀 from Bhopal, India 🇮🇳. I specialize in building dynamic web applications 🌐 and am on a journey to master **Data Structures and Algorithms (DSA)** 🔍. Currently, I'm diving into exciting projects that blend my love for technology with real-world impact! 💡
+I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entrepreneur** 🚀 from Bhopal, India 🇮🇳. I specialize in building dynamic web applications 🌐 and i am on a journey to master **Data Structures and Algorithms (DSA)** 🔍. Currently, I'm diving into exciting projects that blend my love for technology with real-world impact! 💡
 
 ---
 
@@ -33,38 +33,9 @@ I'm a passionate **MERN Stack Developer** 💻 and an aspiring **SaaS Entreprene
 
 ---
 
-### 🚀 Projects
-
-Here are some cool projects I’m currently working on:
-
-- **[Alumni Website for SISTec](https://github.com/sultancodess/alumni-website)**: A platform for SISTec alumni to connect, share updates, and network 🧑‍🤝‍🧑
-- **[SaaS for Content Creators](https://github.com/sultancodess/saas-for-creators)**: A SaaS platform that streamlines workflows for video content approval and publishing 🎥
-- **[Farmers Market Web App](https://github.com/sultancodess/farmers-market)**: Connecting farmers directly with consumers, cutting out middlemen in the market 🌾
-- **[Typing Test App](https://github.com/sultancodess/typing-test)**: A web app for practicing typing speed and accuracy ⌨️
-
----
-
-### 📊 GitHub Stats
-
-![Sultan Alam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sultancodess&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
-### 📈 GitHub Contributions
-
-![Sultan Alam's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sultancodess&theme=tokyonight)
-
-### 💬 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultancodess&langs_count=5&theme=tokyonight)
-
-### 📊 GitHub Activity
-
-![Sultan Alam's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sultancodess&theme=github)
-
----
-
 ### 📈 Ongoing
 
-- **Mastering DSA:** Currently tackling 1000 DSA problems to sharpen my problem-solving skills 💡
+- **Mastering DSA:** Currently tackling 500+ DSA problems to sharpen my problem-solving skills 💡
 - **Hackathon Projects:** Actively participating in a hackathon focused on accessible healthcare information 🏥
 - **SaaS Business Development:** Refining the SaaS product for content creators and expanding its feature set ⚙️
 
@@ -84,15 +55,6 @@ Here are some cool projects I’m currently working on:
 - **Complete Web Development Mastery:** Become an expert in MERN stack and build complex applications 🚀
 - **Launch SaaS Product:** Successfully launch my SaaS platform for content creators 🎉
 - **A+ in Exams:** Achieve A+ grades in my upcoming semester exams 🎓
-
----
-
-### 🤝 Let's Connect!
-
-I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via:
-
-- **Email:** [sultancodess@gmail.com](mailto:sultancodess@gmail.com) 📬
-- **LinkedIn:** [Sultan Alam](https://www.linkedin.com/in/sultan-alam436/) 🔗
 
 ---
 

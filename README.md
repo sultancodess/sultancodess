@@ -10,10 +10,8 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 and asp
   
 ## 📈 GitHub Stats  
 
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sultancodess&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sultancodess&layout=compact&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sultancodess&theme=radical)          ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sultancodess&theme=radical) 
  
-
-
 ---
 
 ## 🚀 Open to Opportunities  
@@ -55,36 +53,6 @@ I'm actively seeking **job opportunities** and **internships** in:\
 
 ---
 
-## 👨‍💻 About Me  
 
-- 🔭 **Current Projects:**  
-  - Developing a SaaS platform for content creators to streamline their workflow.  
-  - Participating in a hackathon to improve healthcare information accessibility.  
-
-- 🌱 **Learning Focus:**  
-  - Solving 500+ DSA problems to sharpen problem-solving skills.  
-  - Exploring advanced concepts in the MERN stack.  
-
-- 🎯 **Goals for 2025:**  
-  - Master DSA and achieve expertise in algorithmic problem-solving.  
-  - Build and launch my SaaS platform for content creators.  
-  - Excel academically with A+ grades in my B.Tech program.  
-
-- 🎮 **Fun Fact:**  
-  I'm a hackathon enthusiast and aim to lead my team to victory in upcoming competitions! 
-  ## 🌟 Achievements  
-
-- 🏆 **Hackathon Leadership:** Led a team in a hackathon aimed at improving healthcare information accessibility.  
-- 🚀 **Full-Stack Projects:** Built multiple dynamic applications using the MERN stack.  
-- 🔑 **Open Source Contributions:** Regularly contribute to GitHub repositories to improve codebases and share knowledge.  
-
-## 📈 GitHub Stats  
-
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sultancodess&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sultancodess&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sultancodess&theme=radical&hide_border=true)  
-![Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sultancodess&theme=radical&utcOffset=5.5)  
-
----
 
 > **"Do not grieve over what has passed unless it makes you work for what is about to come." – Ibn Qayyim Al-Jawziyya**  

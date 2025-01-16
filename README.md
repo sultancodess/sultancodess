@@ -91,7 +91,7 @@ If you're hiring or have a project you'd like to collaborate on, feel free to re
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sultancodess&bg_color=1F1D2E&color=F8D866&line=7F5AF0&point=FFFFFF&area=true&hide_border=true)  
 
 - **Repo Highlights:**  
-  ![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sultancodess&repo=Your-Repo-Name&theme=radical)  
+  ![GitHub Repo Card](https://github.com/sultancodess/sultancodess/blob/main/README.md)  
   *(Replace `Your-Repo-Name` with one of your repositories)*  
 
 ---

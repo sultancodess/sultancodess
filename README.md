@@ -13,10 +13,7 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 and asp
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sultancodess&theme=radical)          ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sultancodess&theme=radical) 
  
 ---
-
-## 🚀 Open to Opportunities  
-
-I'm actively seeking **job opportunities** and **internships** in:\
+## 🚀I'm actively seeking **job opportunities** and **internships** in:
 - **Frontend Development**
 - **Backend Development**
 - **Full-Stack Development**  

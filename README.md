@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Sultan Alam**!  
 
-Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 and aspiring SaaS Entrepreneur 🚀 from Bhopal, India. I specialize in crafting dynamic web applications 🌐,  and building impactful solutions. My journey revolves around learning cutting-edge technologies, solving real-world problems, and creating projects that make a difference.  
+Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 from Bhopal, India. I specialize in crafting dynamic web applications 🌐,  and building impactful solutions. My journey revolves around learning cutting-edge technologies, solving real-world problems, and creating projects that make a difference.  
 
 ---
 ### 📊 Detailed Insights  

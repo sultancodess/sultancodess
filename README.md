@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 from Bh
 - **Backend Development**
 - **Full-Stack Development**  
 - **MERN Stack Development**    
-- **Software Engineering**  
+- **Software Engineer**
+- **Software developer**  
 
 ## 🛠️ Tech Stack  
 

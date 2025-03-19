@@ -36,8 +36,4 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 from Bh
 - 💻 **GitHub:** [sultancodess](https://github.com/sultancodess)  
 - 🌐 **Portfolio:** [https://sultan-alam.netlify.app/](https://sultan-alam.netlify.app/)  
 
----
 
-
-
-> **"Do not grieve over what has passed unless it makes you work for what is about to come." – Ibn Qayyim Al-Jawziyya**  

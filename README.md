@@ -34,6 +34,5 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer 💻 from Bh
 - 📧 **Email:** [sultancodess@gmail.com](mailto:sultancodess@gmail.com)  
 - 💼 **LinkedIn:** [Sultan Alam](https://www.linkedin.com/in/sultan-alam436/)  
 - 💻 **GitHub:** [sultancodess](https://github.com/sultancodess)  
-- 🌐 **Portfolio:** [https://sultan-alam.netlify.app/](https://sultan-alam.netlify.app/)  
-
+- 🌐 **Portfolio:** [[https://sultan-alam.netlify.app/](https://sultanalam.vercel.app/)]
 

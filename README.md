@@ -29,6 +29,65 @@ Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Develo
 
 ---
 
+# 🚀 Projects 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Tomorrow's+Solutions;AI-Powered+Applications" alt="Typing SVG" />
+</div>
+
+---
+
+## 🏥 Smart Hospital Management System  
+**AI-powered healthcare platform with real-time monitoring & multilingual support**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📊_Impact-30%25_Reduced_Wait_Times-4CAF50?style=for-the-badge" alt="Impact Badge" />
+  <img src="https://img.shields.io/badge/⚡_Performance-Optimized_Resources-FF9800?style=for-the-badge" alt="Performance Badge" />
+</div>
+
+**🛠️ Stack:** MERN • Tailwind CSS • WebRTC • Google Translate API
+
+**⚡ Features:** Real-time bed tracking • Video consultations • Role-based access • Multilingual support
+
+<div align="center">
+  <a href="https://medicare-hms.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/sultancodess/Smart-Hospital" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📁_Source_Code-4ECDC4?style=for-the-badge&logoColor=white" alt="Source Code" />
+  </a>
+</div>
+
+---
+
+## 🎤 InterviewMate.pro  
+**AI mock interview platform with voice interaction & dynamic question generation**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📈_Success_Rate-+30%25-4CAF50?style=for-the-badge" alt="Success Rate" />
+  <img src="https://img.shields.io/badge/🎯_Feedback-+40%25_Relevance-2196F3?style=for-the-badge" alt="Feedback Relevance" />
+</div>
+
+**🛠️ Stack:** MERN • Tailwind CSS • Gemini AI • Vapi AI • Speech-to-Text
+
+**⚡ Features:** AI-generated questions • Voice input/output • Role-specific interviews • Real-time feedback
+
+<div align="center">
+  <a href="https://interviewmate-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-9B59B6?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/sultancodess/Interviewmate.pro" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📁_Source_Code-F39C12?style=for-the-badge&logoColor=white" alt="Source Code" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎯+Building+solutions+that+make+a+real+difference!+🎯" alt="Motivation" />
+</div>
+
+
 ## 🔍 Actively Seeking Opportunities
 
 <div align="center">

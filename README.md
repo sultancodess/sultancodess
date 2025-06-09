@@ -26,21 +26,6 @@ Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Develo
 - 🧠 **Hobbies:** Exploring new tech, mentoring juniors, side-projects  
 - 🧭 **Philosophy:** *"Code is not just logic — it's art, crafted with intention."*
 
----
-
-## 🔥 What I Do
-
-- 🌐 **Full Stack Development (MERN)**  
-  Building complete web apps using MongoDB, Express, React, and Node.js.
-
-- ⚙️ **Backend Engineering**  
-  Creating scalable REST APIs, integrating databases, and ensuring secure, high-performance logic.
-
-- 🎨 **Frontend Craftsmanship**  
-  Crafting responsive, interactive UIs with React.js and Tailwind CSS.
-
-- 🤝 **Collaboration & Leadership**  
-  Led teams in hackathons, startup internships, and college projects — solving real-world problems with synergy.
 
 ---
 

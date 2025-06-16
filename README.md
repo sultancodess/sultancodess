@@ -24,7 +24,6 @@ Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Develo
 - 🏠 **Hometown:** East Champaran, Bihar  
 - 🎓 **College:** SISTec Ratibad, Bhopal  
 - 🧠 **Hobbies:** Exploring new tech, mentoring juniors, side-projects  
-- 🧭 **Philosophy:** *"Code is not just logic — it's art, crafted with intention."*
 
 
 ---

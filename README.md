@@ -164,7 +164,7 @@ Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Develo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
-  <a href="https://sultanalam.dev" target="_blank">
+  <a href="[[https://sultanalam.dev](https://sultanalam.vercel.app/)](https://sultanalam.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 

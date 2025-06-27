@@ -1,17 +1,15 @@
 # 🌌 Hi there 👋, I'm **Sultan Alam⚡**
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Banner Animation" />
-</div>
-
-<!-- Animated Top Banner -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SULTAN%20ALAM&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=footer&text=MERN%20Stack%20Developer&fontSize=70&fontColor=ffffff&fontAlignY=60" 
   alt="Sultan Alam Banner" 
-  width="100%"/>
+  width="100%" />
 
----
+## 👨‍💻 About Me
+
+Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Developer** from **East Champaran, Bihar 🇮🇳**, currently pursuing my **B.Tech in Computer Science & Engineering** at SISTec Ratibad, Bhopal.
+
+
+
 ## ⚡ Technology Arsenal
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,13 +34,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
----
-
-## 👨‍💻 About Me
-
-Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Developer** from **East Champaran, Bihar 🇮🇳**, currently pursuing my **B.Tech in Computer Science & Engineering** at SISTec Ratibad, Bhopal.
-
-
 
 ## 🔍 Actively Seeking Opportunities
 
@@ -56,15 +47,6 @@ Hey there! I'm **Sultan Alam** — a self-driven, passionate **Full Stack Develo
 - 🌍 **Remote / On-site / Hybrid** opportunities  
 - 💡 **Innovative teams** building real-world impact
 
----
-
-
-
-
-
-<h2 align="center">🌐 CONNECT & COLLABORATE</h2>
-
-### 🌟 *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."* 🌟
 
 <div align="center">
   <img 

@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=footer&text=MERN%20Stack%20Developer&fontSize=70&fontColor=ffffff&fontAlignY=60" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=footer&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff&fontAlignY=60" 
   alt="Sultan Alam Banner" 
   width="100%" />
 
